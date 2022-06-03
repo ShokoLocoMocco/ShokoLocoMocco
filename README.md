@@ -3,8 +3,8 @@
 
 # Hi there 👋
 
-I'm a Data Analysis and Visualization master's student in NYC.<br>
-I love R programming 😍 and believe in prosperity of the world around R.💪🤓<br>
+I'm currently a master's student studying Data Analysis and Visualization in NYC.<br>
+I love **R** programming 😍 and believe in prosperity of the world around R.💪🤓<br>
 <br>
 
 ### My recent swag: 
