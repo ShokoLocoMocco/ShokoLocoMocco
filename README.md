@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-My portfolio: https://shot.mba
+My portfolio: https://shot.mba<br>
 [![](shot.mba_favicon.png)](https://shot.mba)
 
 <!--
