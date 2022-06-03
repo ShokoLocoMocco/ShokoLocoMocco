@@ -10,20 +10,17 @@ I love **R** programming 😍 and believe in prosperity of the world around R.�
 ### My recent swag: 
 Finally certified as a <a href = "https://www.credly.com/go/jOICa2ip">Google Professional Data Analyst</a>!😭✨🥳🎉🎉<br>
 <a href = "https://www.credly.com/go/jOICa2ip"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/google-data-analytics-certificate.2.png" width=200></a>
-
 <br>
 
 ### My portfolio: 
 https://shot.mba<br>
 <a href = "https://shot.mba"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a>
-
 <br>
 
 ### My repositories include:
 - <a href = "https://github.com/ShokoLocoMocco/viz-a-day">Viz-A-Day</a>
 - <a href = "https://github.com/ShokoLocoMocco/tech-notes">Tech Notes</a>
 - <a href = "https://github.com/ShokoLocoMocco/hiphop-mixtape">Hip Hop Mixtape</a>
-
 <br>
 
 ### I'm a member of:
