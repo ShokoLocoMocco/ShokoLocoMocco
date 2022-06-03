@@ -4,7 +4,7 @@
 # Hi there 👋
 
 I'm a Data Analysis and Visualization master's student in NYC and recently certified as a Google Professional Data Analyst!
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="981bdfb4-d706-4068-b1b2-08a8e1201bb9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![](google-data-analytics-certificate.2.png)](https://www.credly.com/go/jOICa2ip)
 
 I love R programming 😍 and believe in prosperity of the world around R.💪🤓
 
