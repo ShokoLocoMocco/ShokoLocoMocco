@@ -1,4 +1,4 @@
-![](SHOKOLATTE-lb-fix.png)
+<!--![](SHOKOLATTE-lb-fix.png) -->
 
 
 # Hi there 👋
