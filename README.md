@@ -21,7 +21,6 @@ https://shot.mba<br>
 - <a href = "https://github.com/ShokoLocoMocco/viz-a-day">Viz-A-Day</a>
 - <a href = "https://github.com/ShokoLocoMocco/tech-notes">Tech Notes</a>
 - <a href = "https://github.com/ShokoLocoMocco/hiphop-mixtape">Hip Hop Mixtape</a>
-<br>
 
 ### I'm a member of:
 - <a href = "https://www.datavisualizationsociety.org/">Data Visualization Society</a>
