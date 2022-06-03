@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-My portfolio: https://shot.mba
+My portfolio: ![](SHOKOLATTE-lb-fix.png) https://shot.mba
 
 <!--
 **ShokoLocoMocco/ShokoLocoMocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
