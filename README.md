@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-I'm currently a master's student studying Data Analysis and Visualization in NYC.<br>
+I'm currently a master's student studying <a href="https://www.gc.cuny.edu/data-analysis-and-visualization">Data Analysis and Visualization</a> in NYC.<br>
 I love **R** programming 😍 and believe in prosperity of the world around R.💪🤓<br>
 <br>
 
@@ -18,19 +18,19 @@ https://shot.mba<br>
 <a href = "https://shot.mba"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a>
 <br>
 ### My repositories include:
-- Viz-A-Day
-- Tech Notes
-- Hip Hop Mixtape
+- <a href = "https://github.com/ShokoLocoMocco/viz-a-day">Viz-A-Day</a>
+- <a href = "https://github.com/ShokoLocoMocco/tech-notes">Tech Notes</a>
+- <a href = "https://github.com/ShokoLocoMocco/hiphop-mixtape">Hip Hop Mixtape</a>
 
 
 <br>
 
 ### I'm a member of:
-- Data Visualization Society
-- R-Ladies Community
-- Women in Tech
-- Woman in Analytics
-- Digital Analytics Association
+- <a href = "https://www.datavisualizationsociety.org/">Data Visualization Society</a>
+- <a href = "https://rladies.org/">R-Ladies Community</a>
+- <a href = "https://women-in-tech.org/">Women in Tech</a>
+- <a href = "https://www.womeninanalytics.com/">Woman in Analytics</a>
+- <a href = "https://www.digitalanalyticsassociation.org/">Digital Analytics Association</a>
 
 <!--
 **ShokoLocoMocco/ShokoLocoMocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
