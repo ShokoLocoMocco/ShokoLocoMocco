@@ -4,7 +4,7 @@
 # Hi there 👋
 
 My portfolio: https://shot.mba<br>
-<a href = "https://shot.mba"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=100></a>
+<a href = "https://shot.mba"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a>
 
 <!--
 **ShokoLocoMocco/ShokoLocoMocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
