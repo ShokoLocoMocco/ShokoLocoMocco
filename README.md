@@ -4,10 +4,10 @@
 # Hi there 👋
 
 I'm a Data Analysis and Visualization master's student in NYC.
-I love R programming 😍 and believe in prosperity of the world around R.💪🤓
-
-My recent swag: Finally certified as a Google Professional Data Analyst!
-<a href = "https://www.credly.com/go/jOICa2ip"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/google-data-analytics-certificate.2.png" width=200></a>
+I love R programming 😍 and believe in prosperity of the world around R.💪🤓<br>
+<br>
+My recent swag: Finally certified as a Google Professional Data Analyst!<br>
+<a href = "https://www.credly.com/go/jOICa2ip"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/google-data-analytics-certificate.2.png" width=200></a><br>
 
 
 
