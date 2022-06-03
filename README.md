@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-I'm a Data Analysis and Visualization master's student in NYC.
+I'm a Data Analysis and Visualization master's student in NYC.<br>
 I love R programming 😍 and believe in prosperity of the world around R.💪🤓<br>
 <br>
 My recent swag: Finally certified as a <a href = "https://www.credly.com/go/jOICa2ip">Google Professional Data Analyst</a>!<br>
