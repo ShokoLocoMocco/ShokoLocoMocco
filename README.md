@@ -22,9 +22,9 @@ https://shot.mba<br>
 - Tech Notes
 - Hip Hop Mixtape
 
-<br>
 
 <br>
+
 ### I'm a member of:
 - Data Visualization Society
 - R-Ladies Community
