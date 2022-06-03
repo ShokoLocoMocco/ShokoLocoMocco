@@ -16,11 +16,21 @@ Finally certified as a <a href = "https://www.credly.com/go/jOICa2ip">Google Pro
 ### My portfolio: 
 https://shot.mba<br>
 <a href = "https://shot.mba"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/shot.mba_logo.png" width=200></a>
-
+<br>
 ### My repositories include:
 - Viz-A-Day
 - Tech Notes
 - Hip Hop Mixtape
+
+<br>
+
+<br>
+### I'm a member of:
+- Data Visualization Society
+- R-Ladies Community
+- Women in Tech
+- Woman in Analytics
+- Digital Analytics Association
 
 <!--
 **ShokoLocoMocco/ShokoLocoMocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
