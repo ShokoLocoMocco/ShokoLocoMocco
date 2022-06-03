@@ -1,3 +1,6 @@
+![](SHOKOLATTE-lb-fix.png)
+
+
 ### Hi there 👋
 
 <!--
