@@ -5,7 +5,7 @@
 
 I'm currently studying <a href="https://www.gc.cuny.edu/data-analysis-and-visualization" target = "_blank">Data Analysis and Visualization</a> in NYC. 👩‍🎓<br>
 I'm also a pandemic-made <a href="https://docs.google.com/spreadsheets/d/1LuIUWMYHRKkHdgB6rIkDkNvLYJq9sFW8tBf9qxUL5wI/edit#gid=524039440" target = "_blank">certificate freak</a>. 🎖️💮🏵️🏆 I am always on online training courses to learn something new and/or exercise my skills. ✍️💻⌨️   #neverstoplearning <br>
-I love **R** programming 😍 and believe in prosperity of the world around R. 🌐💪😎 <br>
+I love **R** programming 😍 and believe in prosperity of the world around **R**. 🌐💪😎 <br>
 <br>
 
 ### My recent swag: 
