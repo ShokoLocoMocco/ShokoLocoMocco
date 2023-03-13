@@ -8,9 +8,6 @@ I'm also a pandemic-made <a href="https://docs.google.com/spreadsheets/d/1LuIUWM
 I love **R** programming 😍 and believe in prosperity of the world around **R**. 🌐💪😎 <br>
 <br>
 
-### My recent swag: 
-Finally certified as a <a href = "https://www.credly.com/go/jOICa2ip" target = "_blank">Google Professional Data Analyst</a>!😭✨🥳🎉🎉<br>
-<a href = "https://www.credly.com/go/jOICa2ip" target = "_blank"><img src = "https://raw.githubusercontent.com/ShokoLocoMocco/ShokoLocoMocco/main/google-data-analytics-certificate.2.png" width=200></a>
 <br>
 
 ### My portfolio: 
@@ -29,6 +26,11 @@ https://shot.mba<br>
 - <a href = "https://women-in-tech.org/" target = "_blank">Women in Tech</a>
 - <a href = "https://www.womeninanalytics.com/" target = "_blank">Woman in Analytics</a>
 - <a href = "https://www.digitalanalyticsassociation.org/" target = "_blank">Digital Analytics Association</a>
+
+
+<br>
+
+
 
 <!--
 **ShokoLocoMocco/ShokoLocoMocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
